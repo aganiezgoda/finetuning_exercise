@@ -25,7 +25,7 @@ Przeanalizujcie dostarczony [zbiór treningowy](zava_train.jsonl). Jakie problem
 
 ### 3. Ułatwcie wykrywanie problemów
 
-Jak moglibyście zmienić plik z danymi, żeby łatwiej dało się zidentyfikować potencjalne problemy?
+Jak moglibyście przygotować plik z danymi, żeby łatwiej dało się zidentyfikować potencjalne problemy?
 
 ### 4. Podsumujcie ustalenia
 
